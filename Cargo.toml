@@ -3,5 +3,8 @@ name = "as-byte-sequence"
 version = "0.1.0"
 authors = ["Mikail Bagishov <bagishov.mikail@yandex.ru>"]
 edition = "2018"
+description = "Simple trait for types that can be safely transmuted from/to [u8]"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/MikailBag/as-byte-sequence"
 
 [dependencies]
